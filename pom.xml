@@ -11,10 +11,7 @@
         <java.version>1.7</java.version>
         <encoding>UTF-8</encoding>
         <project.build.sourceEncoding>${encoding}</project.build.sourceEncoding>
-        <!-- !!!!!!!!!!!!!!!!!!!!!!!! -->
-        <!-- NOTICE ! 7.0.42 or later NOT WORK . 7.0.41 CAN WORK !-->
-        <tomcat.version>7.0.41</tomcat.version>
-        <!-- !!!!!!!!!!!!!!!!!!!!!!!! -->
+        <tomcat.version>7.0.42</tomcat.version>
     </properties>
 
     <dependencies>
